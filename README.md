@@ -20,13 +20,13 @@ streamlit run app.py
 
 The project runs successfully and displays the demo for the youtube summarization app. Then the user enters a youtube video URL to be summarized.
 
-![outputs\video.png](outputs\video.png)
+![outputs/video.png](outputs/video.png)
 
 ## Results
 
 The results of the app are shown below:
 
-![outputs\summary.png](outputs\summary.png)
+![outputs/summary.png](outputs/summary.png)
 
 ## License
 
